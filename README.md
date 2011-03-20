@@ -11,7 +11,9 @@
  * sbt
 
     update
+
     test
+    
     jetty-run
 
  * enjoy :D
