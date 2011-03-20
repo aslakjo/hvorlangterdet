@@ -9,9 +9,6 @@ object Hvorlang {
       val from = Point(s2d(a._2) , s2d(a._1))
       val to =   Point(s2d(b._2) , s2d(b._1))
 
-      println(from)
-      println(to)
-
       from.to(to).distance
     }
 
