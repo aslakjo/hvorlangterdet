@@ -1,0 +1,47 @@
+html, body{
+    font-family: Georgia, Georgia, serif;
+    height: 100%;
+    width: 100%;
+
+    margin: 0;
+    padding: 0;
+}
+
+.map-content, #map{
+    height:100%;
+    width: 100%;
+}
+
+
+.header{
+    position:absolute;
+    top: 0;
+    width: 100%;
+    height: 150px;
+    z-index: 1000;
+
+    background: #c1c1c1;
+
+    text-align: center;
+
+
+}
+
+.header h1{
+    bottom: 0;
+    font-size: 3.5em;
+
+    margin-top: 60px;
+    color: #ededed;
+
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.header h1.emph{
+    color: #efefef;
+}
+
+.header{
+    border-bottom: 1px solid #888888;
+}
