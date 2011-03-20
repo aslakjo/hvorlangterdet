@@ -1,0 +1,3 @@
+[submodule "sub/geolib"]
+	path = sub/geolib
+	url = git@github.com:aslakjo/geolib.git
